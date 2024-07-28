@@ -1019,12 +1019,12 @@ export const ThematicAreas = [
   {
     imageUrl:
       'https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/upfron-global/thematic-area/icon-5.svg',
-    headline: 'Safe & Sustainable Accommodation',
+    headline: 'Safe & Sustainable <br> Accommodation',
   },
   {
     imageUrl:
       'https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/upfron-global/thematic-area/icon-9.svg',
-    headline: 'Career Progression for Women',
+    headline: 'Career Progression for <br> Women',
   },
   {
     imageUrl:
